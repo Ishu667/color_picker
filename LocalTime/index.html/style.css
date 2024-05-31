@@ -1,0 +1,22 @@
+body{
+    background-color: hsl(0,0%,8%);
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+}
+#clock{
+    background-color: rgb(201, 201, 96);
+    width:140px;
+    height:50px;
+    border: 2px solid black;
+    border-radius: 7px;
+    color: black;
+    font-weight: 600;
+    text-align: center;
+    font-size: 25px;
+}
+.local{
+    margin: auto;
+    margin-top: 300px;
+    margin-left: 700px;
+}
